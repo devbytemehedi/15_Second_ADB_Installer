@@ -18,4 +18,4 @@
 * Modified by Funky : **[SOURCE**FORGE**](https://sourceforge.net/projects/quickadb/)**
 
 ## Credits
-15 seconds ADB Installer is created and distributed by [Snoop05](https://forum.xda-developers.com/member.php?u=4638083) (v1.4.3) and Modified by [Funky](https://sourceforge.net/u/funkspunk) (v2.0.1)
+15 seconds ADB Installer is created and distributed by [Snoop05](https://forum.xda-developers.com/member.php?u=4638083) (v1.4.3), Orginal updated by [androidmtk](https://www.androidmtk.com) and Modified by [Funky](https://sourceforge.net/u/funkspunk) (v2.0.1)

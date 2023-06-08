@@ -13,9 +13,9 @@
 * **Compatibility**: 15 Seconds ADB Installer is compatible with all Windows OS versions from XP to 11.
 
 ## Source
-* Orginal Post by  `Snoop05` : **[XDA-DEVELOPERS FORUM](https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/)**
+* Orginal Post by  `Snoop05` (XDA Developer) : **[XDA-DEVELOPERS FORUM](https://forum.xda-developers.com/t/official-tool-windows-adb-fastboot-and-drivers-15-seconds-adb-installer-v1-4-3.2588979/)**
 * Orginal File Updated : **[Android MTK](https://androidmtk.com/download-15-seconds-adb-installer)**
 * Modified by Funky : **[SOURCE**FORGE**](https://sourceforge.net/projects/quickadb/)**
 
 ## Credits
-15 seconds ADB Installer is created and distributed by [Snoop05](https://forum.xda-developers.com/member.php?u=4638083) (XDA Developer)(v1.4.3) and Modified by [Funky](https://sourceforge.net/u/funkspunk)(v2.0.1)
+15 seconds ADB Installer is created and distributed by [Snoop05](https://forum.xda-developers.com/member.php?u=4638083) (v1.4.3) and Modified by [Funky](https://sourceforge.net/u/funkspunk) (v2.0.1)

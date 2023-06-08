@@ -1,4 +1,4 @@
-# 15_Second_ADB_Installer
+# 15_Seconds_ADB_Installer
 15 Seconds ADB Installer is an All-In-One Windows tool that installs ADB, Fastboot, and drivers in 15 seconds or less.
 
 ![preview](./quickadb-preview.webp)
